@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "defaultProfile": "profiles/default.png",
-  "defaultProfileFemale": "profiles/default_female.webp",
+  "defaultProfile": "profiles/default.jpg",
+  "defaultProfileFemale": "profiles/default_female.jpg",
   "byNormalizedName": {}
 }
