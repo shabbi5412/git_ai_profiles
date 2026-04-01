@@ -3,6 +3,7 @@
   "defaultProfile": "profiles/default.png",
   "defaultProfileFemale": "profiles/default_female.png",
   "byNormalizedName": {
-    "maryam_javed": "profiles/maryam_javed.png"
+    "maryam_javed": "profiles/maryam_javed.png",
+    "aisha_al_qahtani": "profiles/aisha_al_qahtani.png"
   }
 }
