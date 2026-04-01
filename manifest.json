@@ -2,5 +2,7 @@
   "version": 1,
   "defaultProfile": "profiles/default.png",
   "defaultProfileFemale": "profiles/default_female.png",
-  "byNormalizedName": {}
+  "byNormalizedName": {
+    "maryam_javed": "profiles/maryam_javed.png"
+  }
 }
