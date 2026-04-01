@@ -1,0 +1,26 @@
+Thailand AI profile images in this folder are from Pexels (https://www.pexels.com/license/).
+Free to use; attribution appreciated. Stock photos do not assert a subject’s nationality.
+
+Each normalized name has three JPEG options (_1, _2, _3). The app manifest defaults to _1;
+change the manifest path to _2 or _3 (or swap filenames) after you pick a favorite.
+
+Cropped via Pexels URL params (≈720×720). Photo IDs:
+
+malee_panich: 31200075, 8841202, 17340537
+anong_chaiwan: 12256468, 27177012, 4453157
+suda_rattanapong: 19559566, 33942441, 4350287
+kanya_chaiwat: 774909, 1239291, 4158291
+pimchanok_suksawat: 1181686, 1036623, 3785079
+nicha_thongchai: 2379004, 2739792, 899356
+chanida_boonmee: 1024311, 1462637, 6621423
+kanyarat_prasert: 6476588, 3184465, 6149796
+naphaporn_chompoo: 832998, 2678468, 5370426
+somchai_kittisak: 1222271, 1043471, 1040880
+supachai_rattanakorn: 220453, 1516680, 1681010
+thanawat_boonmee: 1043474, 2379005, 1446166
+kittipong_sakda: 3184292, 4397919, 3028992
+anurak_prasit: 3782868, 3765038, 267257
+worawut_suksan: 267394, 1126998, 6621504
+natthapong_jirawat: 6476589, 3184418, 6149800
+sarawut_thammanoon: 832999, 3782869, 3765040
+prayut_wichai: 3764650, 6621600, 6476600

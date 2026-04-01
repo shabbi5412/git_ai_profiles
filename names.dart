@@ -377,24 +377,24 @@
   AIProfile(name: 'Yuda Saputra', country: 'Indonesia', gender: 'M'),
   AIProfile(name: 'Adi Nugroho', country: 'Indonesia', gender: 'M'),
 
-  AIProfile(name: 'มาลี พานิช', country: 'Thailand', gender: 'F'),
-  AIProfile(name: 'Anong Chaiwan', country: 'Thailand', gender: 'F'),
-  AIProfile(name: 'สุดา รัตนพงศ์', country: 'Thailand', gender: 'F'),
-  AIProfile(name: 'Kanya Chaiwat', country: 'Thailand', gender: 'F'),
-  AIProfile(name: 'พิมชนก สุขสวัสดิ์', country: 'Thailand', gender: 'F'),
-  AIProfile(name: 'Nicha Thongchai', country: 'Thailand', gender: 'F'),
-  AIProfile(name: 'ชนิดา บุญมี', country: 'Thailand', gender: 'F'),
-  AIProfile(name: 'Kanyarat Prasert', country: 'Thailand', gender: 'F'),
-  AIProfile(name: 'นภาภรณ์ ชมพู', country: 'Thailand', gender: 'F'),
+  AIProfile(name: 'มาลี พานิช', country: 'Thailand', gender: 'F'), // ✅
+  AIProfile(name: 'Anong Chaiwan', country: 'Thailand', gender: 'F'), // ✅
+  AIProfile(name: 'สุดา รัตนพงศ์', country: 'Thailand', gender: 'F'), // ✅
+  AIProfile(name: 'Kanya Chaiwat', country: 'Thailand', gender: 'F'), // ✅
+  AIProfile(name: 'พิมชนก สุขสวัสดิ์', country: 'Thailand', gender: 'F'), // ✅
+  AIProfile(name: 'Nicha Thongchai', country: 'Thailand', gender: 'F'), // ✅
+  AIProfile(name: 'ชนิดา บุญมี', country: 'Thailand', gender: 'F'), // ✅
+  AIProfile(name: 'Kanyarat Prasert', country: 'Thailand', gender: 'F'), // ✅
+  AIProfile(name: 'นภาภรณ์ ชมพู', country: 'Thailand', gender: 'F'), // ✅
 
-  AIProfile(name: 'Somchai Kittisak', country: 'Thailand', gender: 'M'),
-  AIProfile(name: 'ศุภชัย รัตนากร', country: 'Thailand', gender: 'M'),
-  AIProfile(name: 'Thanawat Boonmee', country: 'Thailand', gender: 'M'),
-  AIProfile(name: 'กิตติพงศ์ ศักดา', country: 'Thailand', gender: 'M'),
-  AIProfile(name: 'Anurak Prasit', country: 'Thailand', gender: 'M'),
-  AIProfile(name: 'วราวุธ สุขสันต์', country: 'Thailand', gender: 'M'),
-  AIProfile(name: 'Natthapong Jirawat', country: 'Thailand', gender: 'M'),
-  AIProfile(name: 'สราวุธ ธรรมมนูญ', country: 'Thailand', gender: 'M'),
-  AIProfile(name: 'Prayut Wichai', country: 'Thailand', gender: 'M'),
+  AIProfile(name: 'Somchai Kittisak', country: 'Thailand', gender: 'M'), // ✅
+  AIProfile(name: 'ศุภชัย รัตนากร', country: 'Thailand', gender: 'M'), // ✅
+  AIProfile(name: 'Thanawat Boonmee', country: 'Thailand', gender: 'M'), // ✅
+  AIProfile(name: 'กิตติพงศ์ ศักดา', country: 'Thailand', gender: 'M'), // ✅
+  AIProfile(name: 'Anurak Prasit', country: 'Thailand', gender: 'M'), // ✅
+  AIProfile(name: 'วราวุธ สุขสันต์', country: 'Thailand', gender: 'M'), // ✅
+  AIProfile(name: 'Natthapong Jirawat', country: 'Thailand', gender: 'M'), // ✅
+  AIProfile(name: 'สราวุธ ธรรมมนูญ', country: 'Thailand', gender: 'M'), // ✅
+  AIProfile(name: 'Prayut Wichai', country: 'Thailand', gender: 'M'), // ✅
 
 ];
