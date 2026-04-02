@@ -1,26 +1,56 @@
-Thailand AI profile images in this folder are from Pexels (https://www.pexels.com/license/).
-Free to use; attribution appreciated. Stock photos do not assert a subject’s nationality.
+﻿Photos from Pexels (https://www.pexels.com/license/). Real photography, not AI.
 
-Each normalized name has three JPEG options (_1, _2, _3). The app manifest defaults to _1;
-change the manifest path to _2 or _3 (or swap filenames) after you pick a favorite.
-
-Cropped via Pexels URL params (≈720×720). Photo IDs:
-
-malee_panich: 31200075, 8841202, 17340537
-anong_chaiwan: 12256468, 27177012, 4453157
-suda_rattanapong: 19559566, 33942441, 4350287
-kanya_chaiwat: 774909, 1239291, 4158291
-pimchanok_suksawat: 1181686, 1036623, 3785079
-nicha_thongchai: 4434387, 12019316, 19324443
-chanida_boonmee: 1024311, 1462637, 6621423
-kanyarat_prasert: 6476588, 3184465, 6149796
-naphaporn_chompoo: 832998, 2678468, 5370426
-somchai_kittisak: 1222271, 1043471, 1040880
-supachai_rattanakorn: 220453, 1516680, 1681010
-thanawat_boonmee: 1043474, 2379005, 1446166
-kittipong_sakda: 3184292, 4397919, 3028992
-anurak_prasit: 3782868, 3765038, 267257
-worawut_suksan: 267394, 1126998, 6621504
-natthapong_jirawat: 6476589, 3184418, 6149800
-sarawut_thammanoon: 832999, 3782869, 3765040
-prayut_wichai: 3764650, 6621600, 6476600
+malee_panit_1.jpg	beach_coast	pexels_id=2908977	OK
+malee_panit_2.jpg	mountain_outdoor	pexels_id=2162178	OK
+malee_panit_3.jpg	lifestyle	pexels_id=3329236	OK
+anong_chaiwan_1.jpg	beach_coast	pexels_id=1009946	FAIL
+anong_chaiwan_2.jpg	mountain_outdoor	pexels_id=2382666	OK
+anong_chaiwan_3.jpg	lifestyle	pexels_id=3359770	OK
+suda_rattanapong_1.jpg	beach_coast	pexels_id=2387860	FAIL
+suda_rattanapong_2.jpg	mountain_outdoor	pexels_id=2434049	OK
+suda_rattanapong_3.jpg	lifestyle	pexels_id=3388816	OK
+kanya_chaiwat_1.jpg	beach_coast	pexels_id=1260848	OK
+kanya_chaiwat_2.jpg	mountain_outdoor	pexels_id=2616629	OK
+kanya_chaiwat_3.jpg	lifestyle	pexels_id=3423613	FAIL
+pimchanok_suksawat_1.jpg	beach_coast	pexels_id=1365425	OK
+pimchanok_suksawat_2.jpg	mountain_outdoor	pexels_id=2672979	OK
+pimchanok_suksawat_3.jpg	lifestyle	pexels_id=3456628	FAIL
+nicha_thongchai_1.jpg	beach_coast	pexels_id=1557238	OK
+nicha_thongchai_2.jpg	mountain_outdoor	pexels_id=2703609	FAIL
+nicha_thongchai_3.jpg	lifestyle	pexels_id=3492738	FAIL
+chanida_boonmi_1.jpg	beach_coast	pexels_id=2379004	OK
+chanida_boonmi_2.jpg	mountain_outdoor	pexels_id=2746848	FAIL
+chanida_boonmi_3.jpg	lifestyle	pexels_id=3526416	OK
+kanyarat_prasert_1.jpg	beach_coast	pexels_id=774909	OK
+kanyarat_prasert_2.jpg	mountain_outdoor	pexels_id=2836480	OK
+kanyarat_prasert_3.jpg	lifestyle	pexels_id=3552947	OK
+napaporn_chompoo_1.jpg	beach_coast	pexels_id=1222278	FAIL
+napaporn_chompoo_2.jpg	mountain_outdoor	pexels_id=2885912	OK
+napaporn_chompoo_3.jpg	lifestyle	pexels_id=3585740	OK
+somchai_kittisak_1.jpg	beach_coast	pexels_id=1681010	OK
+somchai_kittisak_2.jpg	mountain_outdoor	pexels_id=2951921	OK
+somchai_kittisak_3.jpg	lifestyle	pexels_id=3616678	OK
+supachai_rattanakorn_1.jpg	beach_coast	pexels_id=2894944	OK
+supachai_rattanakorn_2.jpg	mountain_outdoor	pexels_id=3014856	OK
+supachai_rattanakorn_3.jpg	lifestyle	pexels_id=3648369	FAIL
+thanawat_boonmee_1.jpg	beach_coast	pexels_id=3206079	OK
+thanawat_boonmee_2.jpg	mountain_outdoor	pexels_id=3059748	OK
+thanawat_boonmee_3.jpg	lifestyle	pexels_id=3676300	FAIL
+kittipong_sakda_1.jpg	beach_coast	pexels_id=1043471	OK
+kittipong_sakda_2.jpg	mountain_outdoor	pexels_id=3149878	OK
+kittipong_sakda_3.jpg	lifestyle	pexels_id=3704979	OK
+anurak_prasit_1.jpg	beach_coast	pexels_id=1181686	OK
+anurak_prasit_2.jpg	mountain_outdoor	pexels_id=3184465	OK
+anurak_prasit_3.jpg	lifestyle	pexels_id=3740444	OK
+worawut_suksan_1.jpg	beach_coast	pexels_id=1462980	OK
+worawut_suksan_2.jpg	mountain_outdoor	pexels_id=3211920	OK
+worawut_suksan_3.jpg	lifestyle	pexels_id=3762872	FAIL
+natthapong_jirawat_1.jpg	beach_coast	pexels_id=1755388	OK
+natthapong_jirawat_2.jpg	mountain_outdoor	pexels_id=3243090	OK
+natthapong_jirawat_3.jpg	lifestyle	pexels_id=3785079	OK
+sarawut_thammanun_1.jpg	beach_coast	pexels_id=1933873	OK
+sarawut_thammanun_2.jpg	mountain_outdoor	pexels_id=3270985	OK
+sarawut_thammanun_3.jpg	lifestyle	pexels_id=3807629	OK
+prayut_wichai_1.jpg	beach_coast	pexels_id=2004446	FAIL
+prayut_wichai_2.jpg	mountain_outdoor	pexels_id=3300903	OK
+prayut_wichai_3.jpg	lifestyle	pexels_id=3831647	FAIL

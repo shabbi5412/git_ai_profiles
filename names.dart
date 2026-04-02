@@ -1,32 +1,32 @@
 
-  AIProfile(name: 'عائشہ خان', country: 'Pakistan', gender: 'F'),
-  AIProfile(name: 'Fatima Malik', country: 'Pakistan', gender: 'F'),
-  AIProfile(name: 'ثنا احمد', country: 'Pakistan', gender: 'F'),
-  AIProfile(name: 'Hira Siddiqui', country: 'Pakistan', gender: 'F'),
-  AIProfile(name: 'زارا اقبال', country: 'Pakistan', gender: 'F'),
-  AIProfile(name: 'Mahnoor Ali', country: 'Pakistan', gender: 'F'),
-  AIProfile(name: 'لائبہ ریاض', country: 'Pakistan', gender: 'F'),
+  AIProfile(name: 'عائشہ خان', country: 'Pakistan', gender: 'F'), // ✅
+  AIProfile(name: 'Fatima Malik', country: 'Pakistan', gender: 'F'), // ✅
+  AIProfile(name: 'ثنا احمد', country: 'Pakistan', gender: 'F'), // ✅
+  AIProfile(name: 'Hira Siddiqui', country: 'Pakistan', gender: 'F'), // ✅
+  AIProfile(name: 'زارا اقبال', country: 'Pakistan', gender: 'F'), // ✅
+  AIProfile(name: 'Mahnoor Ali', country: 'Pakistan', gender: 'F'), // ✅
+  AIProfile(name: 'لائبہ ریاض', country: 'Pakistan', gender: 'F'), // ✅
   AIProfile(name: 'Maryam Javed', country: 'Pakistan', gender: 'F'), // ✅
-  AIProfile(name: 'علینہ شیخ', country: 'Pakistan', gender: 'F'),
-  AIProfile(name: 'Iqra Nawaz', country: 'Pakistan', gender: 'F'),
-  AIProfile(name: 'نور فاطمہ', country: 'Pakistan', gender: 'F'),
-  AIProfile(name: 'Amna Tariq', country: 'Pakistan', gender: 'F'),
-  AIProfile(name: 'ماہنور احمد', country: 'Pakistan', gender: 'F'),
-  AIProfile(name: 'Rimsha Gul', country: 'Pakistan', gender: 'F'),
-  AIProfile(name: 'Bushra Aslam', country: 'Pakistan', gender: 'F'),
-  AIProfile(name: 'Anum Yasir', country: 'Pakistan', gender: 'F'),
-  AIProfile(name: 'Shazia Bukhari', country: 'Pakistan', gender: 'F'),
-  AIProfile(name: 'Hina Rehman', country: 'Pakistan', gender: 'F'),
-  AIProfile(name: 'Komal Zafar', country: 'Pakistan', gender: 'F'),
-  AIProfile(name: 'Rabia Chaudhry', country: 'Pakistan', gender: 'F'),
-  AIProfile(name: 'Samina Awan', country: 'Pakistan', gender: 'F'),
-  AIProfile(name: 'Nimra Yousaf', country: 'Pakistan', gender: 'F'),
-  AIProfile(name: 'Sehar Shah', country: 'Pakistan', gender: 'F'),
-  AIProfile(name: 'Kinza Abbasi', country: 'Pakistan', gender: 'F'),
+  AIProfile(name: 'علینہ شیخ', country: 'Pakistan', gender: 'F'), // ✅
+  AIProfile(name: 'Iqra Nawaz', country: 'Pakistan', gender: 'F'), // ✅
+  AIProfile(name: 'نور فاطمہ', country: 'Pakistan', gender: 'F'), // ✅
+  AIProfile(name: 'Amna Tariq', country: 'Pakistan', gender: 'F'), // ✅
+  AIProfile(name: 'ماہنور احمد', country: 'Pakistan', gender: 'F'), // ✅
+  AIProfile(name: 'Rimsha Gul', country: 'Pakistan', gender: 'F'), // ✅
+  AIProfile(name: 'Bushra Aslam', country: 'Pakistan', gender: 'F'), // ✅
+  AIProfile(name: 'Anum Yasir', country: 'Pakistan', gender: 'F'), // ✅
+  AIProfile(name: 'Shazia Bukhari', country: 'Pakistan', gender: 'F'), // ✅
+  AIProfile(name: 'Hina Rehman', country: 'Pakistan', gender: 'F'), // ✅
+  AIProfile(name: 'Komal Zafar', country: 'Pakistan', gender: 'F'), // ✅
+  AIProfile(name: 'Rabia Chaudhry', country: 'Pakistan', gender: 'F'), // ✅
+  AIProfile(name: 'Samina Awan', country: 'Pakistan', gender: 'F'), // ✅
+  AIProfile(name: 'Nimra Yousaf', country: 'Pakistan', gender: 'F'), // ✅
+  AIProfile(name: 'Sehar Shah', country: 'Pakistan', gender: 'F'), // ✅
+  AIProfile(name: 'Kinza Abbasi', country: 'Pakistan', gender: 'F'), // ✅
 
-  AIProfile(name: 'علی رضا', country: 'Pakistan', gender: 'M'),
-  AIProfile(name: 'Hassan Shah', country: 'Pakistan', gender: 'M'),
-  AIProfile(name: 'عثمان فاروق', country: 'Pakistan', gender: 'M'),
+  AIProfile(name: 'علی رضا', country: 'Pakistan', gender: 'M'), // ✅
+  AIProfile(name: 'Hassan Shah', country: 'Pakistan', gender: 'M'), // ✅
+  AIProfile(name: 'عثمان فاروق', country: 'Pakistan', gender: 'M'), // ✅
   AIProfile(name: 'Bilal Saeed', country: 'Pakistan', gender: 'M'),
   AIProfile(name: 'احمد ندیم', country: 'Pakistan', gender: 'M'),
   AIProfile(name: 'Waqas Haider', country: 'Pakistan', gender: 'M'),
