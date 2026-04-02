@@ -11,7 +11,11 @@ Static hosting for **AI player profile pictures** used by the Ludo app. Update i
 
 ## Normalized names
 
-The app normalizes a profile name for lookup: lowercase, spaces → `_`, ASCII letters/digits/underscore only (non‑Latin names fall back to `defaultProfile` until you add a mapping).
+For **Latin** names, normalize for lookup: **lowercase**, spaces → `_`, keep ASCII letters/digits/underscore (e.g. `Maryam Javed` → `maryam_javed`).
+
+For **non‑Latin** names (Urdu, Cyrillic, Thai, Devanagari, etc.), use the **same script and spelling as in `names.dart`**, with **spaces → `_` only** (do **not** apply Latin-style `toLowerCase()`). Use that string as both the manifest key and the image filename stem (e.g. `ماہنور احمد` → `ماہنور_احمد`; `Юлия Фёдорова` → `Юлия_Фёдорова`). Do not transliterate to ASCII for the manifest key when the display name is not Latin.
+
+The Ludo app must build the same lookup string so it matches `byNormalizedName` in `manifest.json`.
 
 Example — add a specific picture for “Alex Smith”:
 

@@ -1,4 +1,6 @@
-﻿Photos from Pexels (https://www.pexels.com/license/). Real photography, not AI.
+Photos from Pexels (https://www.pexels.com/license/). Real photography, not AI.
+
+Thai-script assets on disk use Unicode filenames (e.g. มาลี_พานิช_1.jpg) matching manifest keys; the ASCII slug in the first column below is the same batch identity from the download scripts.
 
 malee_panit_1.jpg	beach_coast	pexels_id=2908977	OK
 malee_panit_2.jpg	mountain_outdoor	pexels_id=2162178	OK
