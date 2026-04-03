@@ -9,13 +9,23 @@ Static hosting for **AI player profile pictures** used by the Ludo app. Update i
 | `manifest.json` | Maps normalized AI names → image paths; `defaultProfile` is used when no per-name entry exists. |
 | `profiles/` | Image files (PNG/WebP/JPEG). Keep each file **under 1 MB** (compressed). |
 
-## Normalized names
+## Normalized names (lookup keys)
 
-For **Latin** names, normalize for lookup: **lowercase**, spaces → `_`, keep ASCII letters/digits/underscore (e.g. `Maryam Javed` → `maryam_javed`).
+The manifest keys and on-disk filenames use the **same rule the app must use** when resolving `AIProfile.name`:
 
-For **non‑Latin** names (Urdu, Cyrillic, Thai, Devanagari, etc.), use the **same script and spelling as in `names.dart`**, with **spaces → `_` only** (do **not** apply Latin-style `toLowerCase()`). Use that string as both the manifest key and the image filename stem (e.g. `ماہنور احمد` → `ماہنور_احمد`; `Юлия Фёдорова` → `Юлия_Фёдорова`). Do not transliterate to ASCII for the manifest key when the display name is not Latin.
+1. `trim()` whitespace  
+2. Replace each run of whitespace with a single `_`  
+3. Apply Dart’s **`String.toLowerCase()`** on the result  
 
-The Ludo app must build the same lookup string so it matches `byNormalizedName` in `manifest.json`.
+Examples: `Maryam Javed` → `maryam_javed`; `Юлия Фёдорова` → `юлия_фёдорова` (Cyrillic is lowercased); `ماہنور احمد` → usually unchanged for Arabic letters after step 2–3.
+
+**Why:** Flutter/Dart lowercases Cyrillic. If the manifest used `Юлия_Фёдорова` but the app looked up `юлия_фёдорова`, the image would never load.
+
+Copy the helper from this repo into Ludo:
+
+`ludo/normalize_ai_profile_lookup_key.dart` → use `normalizeAiProfileLookupKey(profile.name)` as the map key into `byNormalizedName`.
+
+**Loading the image URL:** build the final URI with `Uri.parse(baseUrl).resolve(path)` (or equivalent) so path segments with non‑ASCII characters are encoded correctly for `NetworkImage` / HTTP.
 
 Example — add a specific picture for “Alex Smith”:
 

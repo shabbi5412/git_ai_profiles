@@ -27,23 +27,23 @@
   AIProfile(name: 'علی رضا', country: 'Pakistan', gender: 'M'), // ✅
   AIProfile(name: 'Hassan Shah', country: 'Pakistan', gender: 'M'), // ✅
   AIProfile(name: 'عثمان فاروق', country: 'Pakistan', gender: 'M'), // ✅
-  AIProfile(name: 'Bilal Saeed', country: 'Pakistan', gender: 'M'),
+  AIProfile(name: 'Bilal Saeed', country: 'Pakistan', gender: 'M'), // ✅
   AIProfile(name: 'احمد ندیم', country: 'Pakistan', gender: 'M'),
-  AIProfile(name: 'Waqas Haider', country: 'Pakistan', gender: 'M'),
+  AIProfile(name: 'Waqas Haider', country: 'Pakistan', gender: 'M'), // ✅
   AIProfile(name: 'ذیشان عارف', country: 'Pakistan', gender: 'M'),
-  AIProfile(name: 'Faisal Rauf', country: 'Pakistan', gender: 'M'),
+  AIProfile(name: 'Faisal Rauf', country: 'Pakistan', gender: 'M'), // ✅
   AIProfile(name: 'حمزہ لطیف', country: 'Pakistan', gender: 'M'),
-  AIProfile(name: 'Shahbaz Ali', country: 'Pakistan', gender: 'M'),
-  AIProfile(name: 'Imran Akhtar', country: 'Pakistan', gender: 'M'),
-  AIProfile(name: 'Tariq Mahmood', country: 'Pakistan', gender: 'M'),
-  AIProfile(name: 'Jawad Mirza', country: 'Pakistan', gender: 'M'),
-  AIProfile(name: 'Danish Qamar', country: 'Pakistan', gender: 'M'),
-  AIProfile(name: 'Salman Baig', country: 'Pakistan', gender: 'M'),
-  AIProfile(name: 'Noman Khokhar', country: 'Pakistan', gender: 'M'),
+  AIProfile(name: 'Shahbaz Ali', country: 'Pakistan', gender: 'M'), // ✅
+  AIProfile(name: 'Imran Akhtar', country: 'Pakistan', gender: 'M'), // ✅
+  AIProfile(name: 'Tariq Mahmood', country: 'Pakistan', gender: 'M'), // ✅
+  AIProfile(name: 'Jawad Mirza', country: 'Pakistan', gender: 'M'), // ✅
+  AIProfile(name: 'Danish Qamar', country: 'Pakistan', gender: 'M'), // ✅
+  AIProfile(name: 'Salman Baig', country: 'Pakistan', gender: 'M'), // ✅
+  AIProfile(name: 'Noman Khokhar', country: 'Pakistan', gender: 'M'), // ✅
   AIProfile(name: 'Shahzad Anwar', country: 'Pakistan', gender: 'M'),
-  AIProfile(name: 'Kashif Iqbal', country: 'Pakistan', gender: 'M'),
+  AIProfile(name: 'Kashif Iqbal', country: 'Pakistan', gender: 'M'), // ✅
   AIProfile(name: 'Rizwan Butt', country: 'Pakistan', gender: 'M'),
-  AIProfile(name: 'Mubashir Khan', country: 'Pakistan', gender: 'M'),
+  AIProfile(name: 'Mubashir Khan', country: 'Pakistan', gender: 'M'), // ✅
 
 
   AIProfile(name: 'प्रिया पटेल', country: 'India', gender: 'F'),
@@ -70,13 +70,13 @@
   AIProfile(name: 'Imran Ali', country: 'India', gender: 'M'),
   AIProfile(name: 'Asif Khan', country: 'India', gender: 'M'),
   AIProfile(name: 'Salman Sheikh', country: 'India', gender: 'M'),
-  AIProfile(name: 'Yusuf Ansari', country: 'India', gender: 'M'),
+  AIProfile(name: 'Yusuf Ansari', country: 'India', gender: 'M'), // ✅
   AIProfile(name: 'Armaan Qureshi', country: 'India', gender: 'M'),
   AIProfile(name: 'आकाश भाटिया', country: 'India', gender: 'M'),
-  AIProfile(name: 'Vikram Desai', country: 'India', gender: 'M'),
-  AIProfile(name: 'Nikhil Chawla', country: 'India', gender: 'M'),
+  AIProfile(name: 'Vikram Desai', country: 'India', gender: 'M'), // ✅
+  AIProfile(name: 'Nikhil Chawla', country: 'India', gender: 'M'), // ✅
   AIProfile(name: 'Karan Kapoor', country: 'India', gender: 'M'),
-  AIProfile(name: 'Manish Aggarwal', country: 'India', gender: 'M'),
+  AIProfile(name: 'Manish Aggarwal', country: 'India', gender: 'M'), // ✅
 
   // ----------------------
   AIProfile(name: 'Emily Clarke', country: 'United Kingdom', gender: 'F'),
