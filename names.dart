@@ -79,36 +79,36 @@
   AIProfile(name: 'Manish Aggarwal', country: 'India', gender: 'M'), // ✅
 
   // ----------------------
-  AIProfile(name: 'Emily Clarke', country: 'United Kingdom', gender: 'F'),
-  AIProfile(name: 'Siân Williams', country: 'United Kingdom', gender: 'F'),
-  AIProfile(name: 'Sophie Turner', country: 'United Kingdom', gender: 'F'),
-  AIProfile(name: 'Amelia Brooks', country: 'United Kingdom', gender: 'F'),
-  AIProfile(name: 'Isla Bennett', country: 'United Kingdom', gender: 'F'),
-  AIProfile(name: 'Grace Morgan', country: 'United Kingdom', gender: 'F'),
-  AIProfile(name: 'Mia Cooper', country: 'United Kingdom', gender: 'F'),
+  AIProfile(name: 'Emily Clarke', country: 'United Kingdom', gender: 'F'), // ✅
+  AIProfile(name: 'Siân Williams', country: 'United Kingdom', gender: 'F'), // ✅
+  AIProfile(name: 'Sophie Turner', country: 'United Kingdom', gender: 'F'), // ✅
+  AIProfile(name: 'Amelia Brooks', country: 'United Kingdom', gender: 'F'), // ✅
+  AIProfile(name: 'Isla Bennett', country: 'United Kingdom', gender: 'F'), // ✅
+  AIProfile(name: 'Grace Morgan', country: 'United Kingdom', gender: 'F'), // ✅
+  AIProfile(name: 'Mia Cooper', country: 'United Kingdom', gender: 'F'), // ✅
   AIProfile(name: 'Charlotte Reed', country: 'United Kingdom', gender: 'F'),
   AIProfile(name: 'Ella Thompson', country: 'United Kingdom', gender: 'F'),
   AIProfile(name: 'Lucy Collins', country: 'United Kingdom', gender: 'F'),
-  AIProfile(name: 'Ayesha Malik', country: 'United Kingdom', gender: 'F'),
+  AIProfile(name: 'Ayesha Malik', country: 'United Kingdom', gender: 'F'), // ✅
   AIProfile(name: 'Fatima Khan', country: 'United Kingdom', gender: 'F'), // ✅
-  AIProfile(name: 'Sana Ahmed', country: 'United Kingdom', gender: 'F'),
-  AIProfile(name: 'Zara Hussain', country: 'United Kingdom', gender: 'F'),
-  AIProfile(name: 'Maryam Riaz', country: 'United Kingdom', gender: 'F'),
-  AIProfile(name: 'Jack Wilson', country: 'United Kingdom', gender: 'M'),
-  AIProfile(name: 'Oliver Davies', country: 'United Kingdom', gender: 'M'),
-  AIProfile(name: 'Harry Thompson', country: 'United Kingdom', gender: 'M'),
-  AIProfile(name: 'James Walker', country: 'United Kingdom', gender: 'M'),
-  AIProfile(name: 'George Hughes', country: 'United Kingdom', gender: 'M'),
-  AIProfile(name: 'Daniel Mitchell', country: 'United Kingdom', gender: 'M'),
+  AIProfile(name: 'Sana Ahmed', country: 'United Kingdom', gender: 'F'), // ✅
+  AIProfile(name: 'Zara Hussain', country: 'United Kingdom', gender: 'F'), // ✅
+  AIProfile(name: 'Maryam Riaz', country: 'United Kingdom', gender: 'F'), // ✅
+  AIProfile(name: 'Jack Wilson', country: 'United Kingdom', gender: 'M'), // ✅
+  AIProfile(name: 'Oliver Davies', country: 'United Kingdom', gender: 'M'), // ✅
+  AIProfile(name: 'Harry Thompson', country: 'United Kingdom', gender: 'M'), // ✅
+  AIProfile(name: 'James Walker', country: 'United Kingdom', gender: 'M'), // ✅
+  AIProfile(name: 'George Hughes', country: 'United Kingdom', gender: 'M'), // ✅
+  AIProfile(name: 'Daniel Mitchell', country: 'United Kingdom', gender: 'M'), // ✅
   AIProfile(name: 'Benjamin Cox', country: 'United Kingdom', gender: 'M'),
-  AIProfile(name: 'Lucas Gray', country: 'United Kingdom', gender: 'M'),
-  AIProfile(name: 'Samuel Foster', country: 'United Kingdom', gender: 'M'),
+  AIProfile(name: 'Lucas Gray', country: 'United Kingdom', gender: 'M'), // ✅
+  AIProfile(name: 'Samuel Foster', country: 'United Kingdom', gender: 'M'), // ✅
   AIProfile(name: 'Joseph Evans', country: 'United Kingdom', gender: 'M'),
-  AIProfile(name: 'Imran Ahmed', country: 'United Kingdom', gender: 'M'),
-  AIProfile(name: 'Usman Riaz', country: 'United Kingdom', gender: 'M'),
-  AIProfile(name: 'Hamza Qureshi', country: 'United Kingdom', gender: 'M'),
-  AIProfile(name: 'Yasir Mahmood', country: 'United Kingdom', gender: 'M'),
-  AIProfile(name: 'Bilal Shah', country: 'United Kingdom', gender: 'M'),
+  AIProfile(name: 'Imran Ahmed', country: 'United Kingdom', gender: 'M'), // ✅
+  AIProfile(name: 'Usman Riaz', country: 'United Kingdom', gender: 'M'), // ✅
+  AIProfile(name: 'Hamza Qureshi', country: 'United Kingdom', gender: 'M'), // ✅
+  AIProfile(name: 'Yasir Mahmood', country: 'United Kingdom', gender: 'M'), // ✅
+  AIProfile(name: 'Bilal Shah', country: 'United Kingdom', gender: 'M'), // ✅
 
   AIProfile(name: 'Anna Schneider', country: 'Germany', gender: 'F'),
   AIProfile(name: 'Laura Fischer', country: 'Germany', gender: 'F'),
@@ -117,7 +117,7 @@
   AIProfile(name: 'Lena Braun', country: 'Germany', gender: 'F'),
   AIProfile(name: 'Emma Vogt', country: 'Germany', gender: 'F'),
   AIProfile(name: 'Ayesha Khan', country: 'Germany', gender: 'F'),
-  AIProfile(name: 'Imran Ahmed', country: 'Germany', gender: 'M'),
+  AIProfile(name: 'Imran Ahmed', country: 'Germany', gender: 'M'), // ✅
   AIProfile(name: 'Fatima Malik', country: 'Germany', gender: 'F'),
   AIProfile(name: 'Usman Farooq', country: 'Germany', gender: 'M'),
   AIProfile(name: 'Marie Dubois', country: 'France', gender: 'F'),
@@ -126,10 +126,10 @@
   AIProfile(name: 'Élise Martin', country: 'France', gender: 'F'),
   AIProfile(name: 'Emma Leclerc', country: 'France', gender: 'F'),
   AIProfile(name: 'Inès Petit', country: 'France', gender: 'F'),
-  AIProfile(name: 'Sana Ahmed', country: 'France', gender: 'F'),
+  AIProfile(name: 'Sana Ahmed', country: 'France', gender: 'F'), // ✅
   AIProfile(name: 'Hamza Iqbal', country: 'France', gender: 'M'),
   AIProfile(name: 'Zainab Qureshi', country: 'France', gender: 'F'),
-  AIProfile(name: 'Yasir Mahmood', country: 'France', gender: 'M'),
+  AIProfile(name: 'Yasir Mahmood', country: 'France', gender: 'M'), // ✅
   AIProfile(name: 'Giulia Rossi', country: 'Italy', gender: 'F'),
   AIProfile(name: 'Sofia Bianchi', country: 'Italy', gender: 'F'),
   AIProfile(name: 'Chiara Romano', country: 'Italy', gender: 'F'),
@@ -138,7 +138,7 @@
   AIProfile(name: 'Martina Fontana', country: 'Italy', gender: 'F'),
   AIProfile(name: 'Marco Conti', country: 'Italy', gender: 'M'),
   AIProfile(name: 'Maryam Tariq', country: 'Italy', gender: 'F'),
-  AIProfile(name: 'Bilal Shah', country: 'Italy', gender: 'M'),
+  AIProfile(name: 'Bilal Shah', country: 'Italy', gender: 'M'), // ✅
   AIProfile(name: 'Hina Siddiqui', country: 'Italy', gender: 'F'), // ✅
   AIProfile(name: 'Isabel García', country: 'Spain', gender: 'F'),
   AIProfile(name: 'Lucía Fernández', country: 'Spain', gender: 'F'),
@@ -146,7 +146,7 @@
   AIProfile(name: 'Carmen Sánchez', country: 'Spain', gender: 'F'),
   AIProfile(name: 'Ana Jiménez', country: 'Spain', gender: 'F'),
   AIProfile(name: 'Paula Iglesias', country: 'Spain', gender: 'F'),
-  AIProfile(name: 'Carlos Martínez', country: 'Spain', gender: 'M'),
+  AIProfile(name: 'Carlos Martínez', country: 'Spain', gender: 'M'), // ✅
   AIProfile(name: 'Komal Riaz', country: 'Spain', gender: 'F'),
   AIProfile(name: 'Noman Khokhar', country: 'Spain', gender: 'M'),
   AIProfile(name: 'Laiba Iqbal', country: 'Spain', gender: 'F'),
@@ -166,17 +166,17 @@
   AIProfile(name: 'Anna Smit', country: 'Netherlands', gender: 'F'),
   AIProfile(name: 'Lotte Jansen', country: 'Netherlands', gender: 'F'),
   AIProfile(name: 'Noa de Vries', country: 'Netherlands', gender: 'F'),
-  AIProfile(name: 'Sana Ahmed', country: 'Netherlands', gender: 'F'),
+  AIProfile(name: 'Sana Ahmed', country: 'Netherlands', gender: 'F'), // ✅
   AIProfile(name: 'Rizwan Butt', country: 'Netherlands', gender: 'M'),
   AIProfile(name: 'Zainab Qureshi', country: 'Netherlands', gender: 'F'),
-  AIProfile(name: 'Imran Ahmed', country: 'Netherlands', gender: 'M'),
+  AIProfile(name: 'Imran Ahmed', country: 'Netherlands', gender: 'M'), // ✅
   AIProfile(name: 'Johanna Svensson', country: 'Sweden', gender: 'F'),
   AIProfile(name: 'Emma Lindberg', country: 'Sweden', gender: 'F'),
   AIProfile(name: 'Elin Andersson', country: 'Sweden', gender: 'F'),
   AIProfile(name: 'Agnes Karlsson', country: 'Sweden', gender: 'F'),
   AIProfile(name: 'Maja Nyström', country: 'Sweden', gender: 'F'),
   AIProfile(name: 'Alva Berg', country: 'Sweden', gender: 'F'),
-  AIProfile(name: 'Erik Johansson', country: 'Sweden', gender: 'M'),
+  AIProfile(name: 'Erik Johansson', country: 'Sweden', gender: 'M'), // ✅
   AIProfile(name: 'Maryam Tariq', country: 'Sweden', gender: 'F'),
   AIProfile(name: 'Usman Farooq', country: 'Sweden', gender: 'M'),
   AIProfile(name: 'Hina Siddiqui', country: 'Sweden', gender: 'F'), // ✅
@@ -198,7 +198,7 @@
   AIProfile(name: 'Alma Kristensen', country: 'Denmark', gender: 'F'),
   AIProfile(name: 'William Sørensen', country: 'Denmark', gender: 'M'), // ✅
   AIProfile(name: 'Ayesha Khan', country: 'Denmark', gender: 'F'),
-  AIProfile(name: 'Yasir Mahmood', country: 'Denmark', gender: 'M'),
+  AIProfile(name: 'Yasir Mahmood', country: 'Denmark', gender: 'M'), // ✅
   AIProfile(name: 'Fatima Malik', country: 'Denmark', gender: 'F'),
 
   AIProfile(name: 'فاطمة الشهري', country: 'Saudi Arabia', gender: 'F'), // ✅
