@@ -10,6 +10,7 @@
 String normalizeAiProfileLookupKey(String name) {
   final trimmed = name.trim();
   if (trimmed.isEmpty) return '';
-  final withUnderscores = trimmed.replaceAll(RegExp(r'\s+'), '_');
+  final withUnderscores =
+      trimmed.replaceAll(RegExp(r'\s+', unicode: true), '_');
   return withUnderscores.toLowerCase();
 }
