@@ -140,25 +140,25 @@
   AIProfile(name: 'Maryam Tariq', country: 'Italy', gender: 'F'), // ✅
   AIProfile(name: 'Bilal Shah', country: 'Italy', gender: 'M'), // ✅
   AIProfile(name: 'Hina Siddiqui', country: 'Italy', gender: 'F'), // ✅
-  AIProfile(name: 'Isabel García', country: 'Spain', gender: 'F'),
-  AIProfile(name: 'Lucía Fernández', country: 'Spain', gender: 'F'),
-  AIProfile(name: 'María López', country: 'Spain', gender: 'F'),
-  AIProfile(name: 'Carmen Sánchez', country: 'Spain', gender: 'F'),
-  AIProfile(name: 'Ana Jiménez', country: 'Spain', gender: 'F'),
+  AIProfile(name: 'Isabel García', country: 'Spain', gender: 'F'), // ✅
+  AIProfile(name: 'Lucía Fernández', country: 'Spain', gender: 'F'), // ✅
+  AIProfile(name: 'María López', country: 'Spain', gender: 'F'), // ✅
+  AIProfile(name: 'Carmen Sánchez', country: 'Spain', gender: 'F'), // ✅
+  AIProfile(name: 'Ana Jiménez', country: 'Spain', gender: 'F'), // ✅
   AIProfile(name: 'Paula Iglesias', country: 'Spain', gender: 'F'),
   AIProfile(name: 'Carlos Martínez', country: 'Spain', gender: 'M'), // ✅
   AIProfile(name: 'Komal Riaz', country: 'Spain', gender: 'F'), // ✅
   AIProfile(name: 'Noman Khokhar', country: 'Spain', gender: 'M'),
   AIProfile(name: 'Laiba Iqbal', country: 'Spain', gender: 'F'),
-  AIProfile(name: 'Katarzyna Nowak', country: 'Poland', gender: 'F'),
+  AIProfile(name: 'Katarzyna Nowak', country: 'Poland', gender: 'F'), // ✅
   AIProfile(name: 'Agnieszka Kowalska', country: 'Poland', gender: 'F'),
-  AIProfile(name: 'Julia Zielińska', country: 'Poland', gender: 'F'),
-  AIProfile(name: 'Zuzanna Kamińska', country: 'Poland', gender: 'F'),
-  AIProfile(name: 'Natalia Wójcik', country: 'Poland', gender: 'F'),
+  AIProfile(name: 'Julia Zielińska', country: 'Poland', gender: 'F'), // ✅
+  AIProfile(name: 'Zuzanna Kamińska', country: 'Poland', gender: 'F'), // ✅
+  AIProfile(name: 'Natalia Wójcik', country: 'Poland', gender: 'F'), // ✅
   AIProfile(name: 'Magdalena Lewandowska', country: 'Poland', gender: 'F'),
   AIProfile(name: 'Piotr Zieliński', country: 'Poland', gender: 'M'), // ✅
   AIProfile(name: 'Ayesha Khan', country: 'Poland', gender: 'F'), // ✅
-  AIProfile(name: 'Kashif Iqbal', country: 'Poland', gender: 'M'),
+  AIProfile(name: 'Kashif Iqbal', country: 'Poland', gender: 'M'), // ✅
   AIProfile(name: 'Fatima Malik', country: 'Poland', gender: 'F'), // ✅
   AIProfile(name: 'Eva de Jong', country: 'Netherlands', gender: 'F'),
   AIProfile(name: 'Sophie Bakker', country: 'Netherlands', gender: 'F'), // ✅
@@ -251,22 +251,22 @@
 
   AIProfile(name: 'نور الكويتية', country: 'Kuwait', gender: 'F'), // ✅
   AIProfile(name: 'Sara Al-Sabah', country: 'Kuwait', gender: 'F'), // ✅
-  AIProfile(name: 'مريم الحمد', country: 'Kuwait', gender: 'F'),
-  AIProfile(name: 'لولوة الناصر', country: 'Kuwait', gender: 'F'),
-  AIProfile(name: 'العنود العدواني', country: 'Kuwait', gender: 'F'),
-  AIProfile(name: 'Haya Al-Mutairi', country: 'Kuwait', gender: 'F'),
+  AIProfile(name: 'مريم الحمد', country: 'Kuwait', gender: 'F'), // ✅
+  AIProfile(name: 'لولوة الناصر', country: 'Kuwait', gender: 'F'), // ✅
+  AIProfile(name: 'العنود العدواني', country: 'Kuwait', gender: 'F'), // ✅
+  AIProfile(name: 'Haya Al-Mutairi', country: 'Kuwait', gender: 'F'), // ✅
   AIProfile(name: 'دلال الفهد', country: 'Kuwait', gender: 'F'),
-  AIProfile(name: 'Aisha Al-Bader', country: 'Kuwait', gender: 'F'),
+  AIProfile(name: 'Aisha Al-Bader', country: 'Kuwait', gender: 'F'), // ✅
   AIProfile(name: 'ريم الجارالله', country: 'Kuwait', gender: 'F'),
   AIProfile(name: 'عبدالله الحمد', country: 'Kuwait', gender: 'M'),
   AIProfile(name: 'Faisal Al-Salem', country: 'Kuwait', gender: 'M'), // ✅
-  AIProfile(name: 'يوسف النجار', country: 'Kuwait', gender: 'M'),
-  AIProfile(name: 'Bader Al-Otaibi', country: 'Kuwait', gender: 'M'),
+  AIProfile(name: 'يوسف النجار', country: 'Kuwait', gender: 'M'), // ✅
+  AIProfile(name: 'Bader Al-Otaibi', country: 'Kuwait', gender: 'M'), // ✅
   AIProfile(name: 'نواف العجمي', country: 'Kuwait', gender: 'M'), // ✅
   AIProfile(name: 'Saud Al-Mutairi', country: 'Kuwait', gender: 'M'), // ✅
 
-  AIProfile(name: 'مها الحارثي', country: 'Oman', gender: 'F'),
-  AIProfile(name: 'Aisha Al-Hinai', country: 'Oman', gender: 'F'),
+  AIProfile(name: 'مها الحارثي', country: 'Oman', gender: 'F'), // ✅
+  AIProfile(name: 'Aisha Al-Hinai', country: 'Oman', gender: 'F'), // ✅
   AIProfile(name: 'مريم البلوشي', country: 'Oman', gender: 'F'),
   AIProfile(name: 'عزة السيفي', country: 'Oman', gender: 'F'),
   AIProfile(name: 'خلود المسكري', country: 'Oman', gender: 'F'),
@@ -274,12 +274,12 @@
   AIProfile(name: 'منى اللواتي', country: 'Oman', gender: 'F'),
   AIProfile(name: 'روان المحروقي', country: 'Oman', gender: 'F'),
   AIProfile(name: 'سارة الشكيلية', country: 'Oman', gender: 'F'),
-  AIProfile(name: 'أحمد الحارثي', country: 'Oman', gender: 'M'),
-  AIProfile(name: 'Said Al-Hinai', country: 'Oman', gender: 'M'),
-  AIProfile(name: 'يوسف المعولي', country: 'Oman', gender: 'M'),
-  AIProfile(name: 'حسن الريامي', country: 'Oman', gender: 'M'),
-  AIProfile(name: 'Ali Al-Habsi', country: 'Oman', gender: 'M'),
-  AIProfile(name: 'خالد العامري', country: 'Oman', gender: 'M'),
+  AIProfile(name: 'أحمد الحارثي', country: 'Oman', gender: 'M'), // ✅
+  AIProfile(name: 'Said Al-Hinai', country: 'Oman', gender: 'M'), // ✅
+  AIProfile(name: 'يوسف المعولي', country: 'Oman', gender: 'M'), // ✅
+  AIProfile(name: 'حسن الريامي', country: 'Oman', gender: 'M'), // ✅
+  AIProfile(name: 'Ali Al-Habsi', country: 'Oman', gender: 'M'), // ✅
+  AIProfile(name: 'خالد العامري', country: 'Oman', gender: 'M'), // ✅
 
   AIProfile(name: 'مريم الخليفة', country: 'Bahrain', gender: 'F'),
   AIProfile(name: 'Aisha Al-Mannai', country: 'Bahrain', gender: 'F'),
