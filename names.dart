@@ -267,10 +267,10 @@
 
   AIProfile(name: 'مها الحارثي', country: 'Oman', gender: 'F'), // ✅
   AIProfile(name: 'Aisha Al-Hinai', country: 'Oman', gender: 'F'), // ✅
-  AIProfile(name: 'مريم البلوشي', country: 'Oman', gender: 'F'),
-  AIProfile(name: 'عزة السيفي', country: 'Oman', gender: 'F'),
-  AIProfile(name: 'خلود المسكري', country: 'Oman', gender: 'F'),
-  AIProfile(name: 'Huda Al-Rashdi', country: 'Oman', gender: 'F'),
+  AIProfile(name: 'مريم البلوشي', country: 'Oman', gender: 'F'), // ✅
+  AIProfile(name: 'عزة السيفي', country: 'Oman', gender: 'F'), // ✅
+  AIProfile(name: 'خلود المسكري', country: 'Oman', gender: 'F'), // ✅
+  AIProfile(name: 'Huda Al-Rashdi', country: 'Oman', gender: 'F'), // ✅
   AIProfile(name: 'منى اللواتي', country: 'Oman', gender: 'F'),
   AIProfile(name: 'روان المحروقي', country: 'Oman', gender: 'F'),
   AIProfile(name: 'سارة الشكيلية', country: 'Oman', gender: 'F'),
@@ -281,41 +281,41 @@
   AIProfile(name: 'Ali Al-Habsi', country: 'Oman', gender: 'M'), // ✅
   AIProfile(name: 'خالد العامري', country: 'Oman', gender: 'M'), // ✅
 
-  AIProfile(name: 'مريم الخليفة', country: 'Bahrain', gender: 'F'),
-  AIProfile(name: 'Aisha Al-Mannai', country: 'Bahrain', gender: 'F'),
-  AIProfile(name: 'هالة الأنصاري', country: 'Bahrain', gender: 'F'),
-  AIProfile(name: 'نورة الرميحي', country: 'Bahrain', gender: 'F'),
-  AIProfile(name: 'ريم الجِشي', country: 'Bahrain', gender: 'F'),
-  AIProfile(name: 'Amna Al-Zayani', country: 'Bahrain', gender: 'F'),
-  AIProfile(name: 'حِصّة الخليفة', country: 'Bahrain', gender: 'F'),
+  AIProfile(name: 'مريم الخليفة', country: 'Bahrain', gender: 'F'), // ✅
+  AIProfile(name: 'Aisha Al-Mannai', country: 'Bahrain', gender: 'F'), // ✅
+  AIProfile(name: 'هالة الأنصاري', country: 'Bahrain', gender: 'F'), // ✅
+  AIProfile(name: 'نورة الرميحي', country: 'Bahrain', gender: 'F'), // ✅
+  AIProfile(name: 'ريم الجِشي', country: 'Bahrain', gender: 'F'), // ✅
+  AIProfile(name: 'Amna Al-Zayani', country: 'Bahrain', gender: 'F'), // ✅
+  AIProfile(name: 'حِصّة الخليفة', country: 'Bahrain', gender: 'F'), // ✅
   AIProfile(name: 'لولوة القطان', country: 'Bahrain', gender: 'F'),
   AIProfile(name: 'فاطمة المحمود', country: 'Bahrain', gender: 'F'),
-  AIProfile(name: 'Mohammed Al-Khalifa', country: 'Bahrain', gender: 'M'),
-  AIProfile(name: 'عبدالله المؤيد', country: 'Bahrain', gender: 'M'),
+  AIProfile(name: 'Mohammed Al-Khalifa', country: 'Bahrain', gender: 'M'), // ✅
+  AIProfile(name: 'عبدالله المؤيد', country: 'Bahrain', gender: 'M'), // ✅
   AIProfile(name: 'خالد الزayani', country: 'Bahrain', gender: 'M'),
-  AIProfile(name: 'Salman Al-Majed', country: 'Bahrain', gender: 'M'),
-  AIProfile(name: 'يوسف الجِشي', country: 'Bahrain', gender: 'M'),
-  AIProfile(name: 'Faisal Al-Aradi', country: 'Bahrain', gender: 'M'),
+  AIProfile(name: 'Salman Al-Majed', country: 'Bahrain', gender: 'M'), // ✅
+  AIProfile(name: 'يوسف الجِشي', country: 'Bahrain', gender: 'M'), // ✅
+  AIProfile(name: 'Faisal Al-Aradi', country: 'Bahrain', gender: 'M'), // ✅
 
-  AIProfile(name: '王芳', country: 'China', gender: 'F'),
-  AIProfile(name: 'Li Na', country: 'China', gender: 'F'),
+  AIProfile(name: '王芳', country: 'China', gender: 'F'), // ✅
+  AIProfile(name: 'Li Na', country: 'China', gender: 'F'), // ✅
   AIProfile(name: '张静', country: 'China', gender: 'F'),
-  AIProfile(name: 'Liu Yan', country: 'China', gender: 'F'),
-  AIProfile(name: '赵敏', country: 'China', gender: 'F'),
+  AIProfile(name: 'Liu Yan', country: 'China', gender: 'F'), // ✅
+  AIProfile(name: '赵敏', country: 'China', gender: 'F'), // ✅
   AIProfile(name: 'Chen Ying', country: 'China', gender: 'F'),
-  AIProfile(name: '杨梅', country: 'China', gender: 'F'),
-  AIProfile(name: 'Huang Li', country: 'China', gender: 'F'),
-  AIProfile(name: '周心怡', country: 'China', gender: 'F'),
+  AIProfile(name: '杨梅', country: 'China', gender: 'F'), // ✅
+  AIProfile(name: 'Huang Li', country: 'China', gender: 'F'), // ✅
+  AIProfile(name: '周心怡', country: 'China', gender: 'F'), // ✅
 
-  AIProfile(name: 'Li Wei', country: 'China', gender: 'M'),
-  AIProfile(name: '王勇', country: 'China', gender: 'M'),
-  AIProfile(name: 'Zhang Wei', country: 'China', gender: 'M'),
-  AIProfile(name: '刘明', country: 'China', gender: 'M'),
+  AIProfile(name: 'Li Wei', country: 'China', gender: 'M'), // ✅
+  AIProfile(name: '王勇', country: 'China', gender: 'M'), // ✅
+  AIProfile(name: 'Zhang Wei', country: 'China', gender: 'M'), // ✅
+  AIProfile(name: '刘明', country: 'China', gender: 'M'), // ✅
   AIProfile(name: 'Chen Jie', country: 'China', gender: 'M'), // ✅
-  AIProfile(name: '赵磊', country: 'China', gender: 'M'),
+  AIProfile(name: '赵磊', country: 'China', gender: 'M'), // ✅
   AIProfile(name: 'Huang Wei', country: 'China', gender: 'M'),
-  AIProfile(name: '周浩', country: 'China', gender: 'M'),
-  AIProfile(name: 'Yang Jun', country: 'China', gender: 'M'),
+  AIProfile(name: '周浩', country: 'China', gender: 'M'), // ✅
+  AIProfile(name: 'Yang Jun', country: 'China', gender: 'M'), // ✅
 
   AIProfile(name: 'Наталия Смирнова', country: 'Russia', gender: 'F'), // ✅
   AIProfile(name: 'Anna Ivanova', country: 'Russia', gender: 'F'), // ✅
@@ -337,43 +337,43 @@
   AIProfile(name: 'Андрей Егоров', country: 'Russia', gender: 'M'), // ✅
   AIProfile(name: 'Pavel Lebedev', country: 'Russia', gender: 'M'), // ✅
 
-  AIProfile(name: 'مريم حسن', country: 'Egypt', gender: 'F'),
-  AIProfile(name: 'Nour El-Sayed', country: 'Egypt', gender: 'F'),
-  AIProfile(name: 'سارة عبد الرحمن', country: 'Egypt', gender: 'F'),
-  AIProfile(name: 'Aya Mahmoud', country: 'Egypt', gender: 'F'),
-  AIProfile(name: 'هالة مصطفى', country: 'Egypt', gender: 'F'),
-  AIProfile(name: 'Dina Ibrahim', country: 'Egypt', gender: 'F'),
-  AIProfile(name: 'ريم أشرف', country: 'Egypt', gender: 'F'),
-  AIProfile(name: 'Yasmin Ali', country: 'Egypt', gender: 'F'),
+  AIProfile(name: 'مريم حسن', country: 'Egypt', gender: 'F'), // ✅
+  AIProfile(name: 'Nour El-Sayed', country: 'Egypt', gender: 'F'), // ✅
+  AIProfile(name: 'سارة عبد الرحمن', country: 'Egypt', gender: 'F'), // ✅
+  AIProfile(name: 'Aya Mahmoud', country: 'Egypt', gender: 'F'), // ✅
+  AIProfile(name: 'هالة مصطفى', country: 'Egypt', gender: 'F'), // ✅
+  AIProfile(name: 'Dina Ibrahim', country: 'Egypt', gender: 'F'), // ✅
+  AIProfile(name: 'ريم أشرف', country: 'Egypt', gender: 'F'), // ✅
+  AIProfile(name: 'Yasmin Ali', country: 'Egypt', gender: 'F'), // ✅
   AIProfile(name: 'نادين خالد', country: 'Egypt', gender: 'F'),
 
-  AIProfile(name: 'Ahmed Mostafa', country: 'Egypt', gender: 'M'),
-  AIProfile(name: 'محمد حسن', country: 'Egypt', gender: 'M'),
-  AIProfile(name: 'Omar Adel', country: 'Egypt', gender: 'M'),
-  AIProfile(name: 'يوسف ناصر', country: 'Egypt', gender: 'M'),
-  AIProfile(name: 'Karim Tarek', country: 'Egypt', gender: 'M'),
-  AIProfile(name: 'حسن علي', country: 'Egypt', gender: 'M'),
-  AIProfile(name: 'Mahmoud Khalil', country: 'Egypt', gender: 'M'),
+  AIProfile(name: 'Ahmed Mostafa', country: 'Egypt', gender: 'M'), // ✅
+  AIProfile(name: 'محمد حسن', country: 'Egypt', gender: 'M'), // ✅
+  AIProfile(name: 'Omar Adel', country: 'Egypt', gender: 'M'), // ✅
+  AIProfile(name: 'يوسف ناصر', country: 'Egypt', gender: 'M'), // ✅
+  AIProfile(name: 'Karim Tarek', country: 'Egypt', gender: 'M'), // ✅
+  AIProfile(name: 'حسن علي', country: 'Egypt', gender: 'M'), // ✅
+  AIProfile(name: 'Mahmoud Khalil', country: 'Egypt', gender: 'M'), // ✅
   AIProfile(name: 'علي سمير', country: 'Egypt', gender: 'M'),
-  AIProfile(name: 'Tarek Hussein', country: 'Egypt', gender: 'M'),
+  AIProfile(name: 'Tarek Hussein', country: 'Egypt', gender: 'M'), // ✅
 
-  AIProfile(name: 'Siti Dewi', country: 'Indonesia', gender: 'F'),
-  AIProfile(name: 'Rina Putri', country: 'Indonesia', gender: 'F'),
-  AIProfile(name: 'Ayu Lestari', country: 'Indonesia', gender: 'F'),
-  AIProfile(name: 'Dewi Sartika', country: 'Indonesia', gender: 'F'),
-  AIProfile(name: 'Nadia Pratiwi', country: 'Indonesia', gender: 'F'),
+  AIProfile(name: 'Siti Dewi', country: 'Indonesia', gender: 'F'), // ✅
+  AIProfile(name: 'Rina Putri', country: 'Indonesia', gender: 'F'), // ✅
+  AIProfile(name: 'Ayu Lestari', country: 'Indonesia', gender: 'F'), // ✅
+  AIProfile(name: 'Dewi Sartika', country: 'Indonesia', gender: 'F'), // ✅
+  AIProfile(name: 'Nadia Pratiwi', country: 'Indonesia', gender: 'F'), // ✅
   AIProfile(name: 'Intan Permata', country: 'Indonesia', gender: 'F'),
-  AIProfile(name: 'Putri Ayu', country: 'Indonesia', gender: 'F'),
+  AIProfile(name: 'Putri Ayu', country: 'Indonesia', gender: 'F'), // ✅
   AIProfile(name: 'Rani Wulandari', country: 'Indonesia', gender: 'F'),
-  AIProfile(name: 'Fitri Handayani', country: 'Indonesia', gender: 'F'),
+  AIProfile(name: 'Fitri Handayani', country: 'Indonesia', gender: 'F'), // ✅
 
-  AIProfile(name: 'Budi Santoso', country: 'Indonesia', gender: 'M'),
-  AIProfile(name: 'Andi Pratama', country: 'Indonesia', gender: 'M'),
-  AIProfile(name: 'Agus Saputra', country: 'Indonesia', gender: 'M'),
-  AIProfile(name: 'Rizki Kurniawan', country: 'Indonesia', gender: 'M'),
-  AIProfile(name: 'Dedi Firmansyah', country: 'Indonesia', gender: 'M'),
-  AIProfile(name: 'Fajar Hidayat', country: 'Indonesia', gender: 'M'),
-  AIProfile(name: 'Ilham Maulana', country: 'Indonesia', gender: 'M'),
+  AIProfile(name: 'Budi Santoso', country: 'Indonesia', gender: 'M'), // ✅
+  AIProfile(name: 'Andi Pratama', country: 'Indonesia', gender: 'M'), // ✅
+  AIProfile(name: 'Agus Saputra', country: 'Indonesia', gender: 'M'), // ✅
+  AIProfile(name: 'Rizki Kurniawan', country: 'Indonesia', gender: 'M'), // ✅
+  AIProfile(name: 'Dedi Firmansyah', country: 'Indonesia', gender: 'M'), // ✅
+  AIProfile(name: 'Fajar Hidayat', country: 'Indonesia', gender: 'M'), // ✅
+  AIProfile(name: 'Ilham Maulana', country: 'Indonesia', gender: 'M'), // ✅
   AIProfile(name: 'Yuda Saputra', country: 'Indonesia', gender: 'M'),
   AIProfile(name: 'Adi Nugroho', country: 'Indonesia', gender: 'M'),
 
